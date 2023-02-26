@@ -1,0 +1,6 @@
+1. clone repo
+2. go to terminal (must have python)
+3. pip install virtualenv (if don't already have)
+4. virtualenv ResaleMarket
+5. run "pip install -r requirements.txt"
+4. follow other file now

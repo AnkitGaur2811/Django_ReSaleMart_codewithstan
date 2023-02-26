@@ -1,0 +1,18 @@
+To Run this project 
+
+1. open termnial in this folder
+2. run command in same order
+    - cd ResaleMarket
+    - Scripts\activate.bat (if using cmd else only activate inplace of activate.bat)
+    - cd ..
+    - cd ResaleMart
+    - python manage.py runserver
+3. go to link in termnial
+4. after closing the browser 
+5. run following command in browser to completely shut down app
+    - ctrl + c (to kill server)
+    - cd ..
+    - cd ResaleMarket
+    - deactivate
+    -cd ..
+     
